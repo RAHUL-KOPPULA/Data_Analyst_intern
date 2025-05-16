@@ -30,9 +30,13 @@ This project performs a full-scale HR attrition analysis using **Python** for da
 |------------|---------|
 
 | Python     |  Data analysis, modeling, SHAP explainability |
+
 | Pandas, Seaborn, Matplotlib | Data wrangling & visualization |
+
 | Scikit-learn | Machine learning (Random Forest) |
+
 | SHAP       | Model interpretability |
+
 | Power BI   | Dashboard & report generation |
 
 ---
